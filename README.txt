@@ -1,4 +1,4 @@
-##Feelings vs. Reason: A Comparative Analysis of Risky Decision-Making between Humans and AI Chatbots in Life-Death, Monetary, and Moral Contexts##
+## Integrating Feeling-based and Reason-based Decision-Making: Humans vs. AI across Life-Death, Monetary, and Moral Domains##
 
 Welcome to the GitHub repository for our research project. This repository contains the code and data used in our study.
 
@@ -13,4 +13,4 @@ Script for Viso: WithinAnalysis_Viso.R, ModeAnalysis&Viso.R
 - Generated graphs: WithinViso.pdf, ModeViso.pdf
 - Final figure: Fig. 1 and Fig. 2 (refined using Adobe Illustrator)
 
-##Edited on March 24, 2025
+##Edited on June 14, 2025
